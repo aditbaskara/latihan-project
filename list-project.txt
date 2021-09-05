@@ -1,0 +1,9 @@
+LIST BELAJAR PROGRAMING
+- Belajar HTML
+- Belajar CSS 
+- Belajar JS
+
+LIST MEMBUAT PROJECT
+- Clock
+- Calculator
+- Dropdown Menu
