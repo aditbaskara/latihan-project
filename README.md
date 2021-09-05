@@ -1,2 +1,2 @@
-# latihan-project
+# project-latihan
 belajar project untuk webdev
